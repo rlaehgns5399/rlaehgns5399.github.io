@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "우두루"
-  avatar           : "/images/bio-avartar.jpg"
+  avatar           : "/asset/bio-avartar.png"
   bio              : "94년생 틀딱"
   location         : "대전"
   email            : "rlaehgns5398@gmail.com"
