@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Udyr's Blog"
 title_separator          : "-"
-name                     : "김도훈"
+name                     : "Udyr"
 description              : "MD"
 url                      : "https://rlaehgns5399.github.io"
 baseurl                  : ""
@@ -103,15 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "우두루"
+  avatar           : "/images/bio-avartar.jpg"
+  bio              : "94년생 틀딱"
+  location         : "대전"
+  email            : "rlaehgns5398@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:rlaehgns5398@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
