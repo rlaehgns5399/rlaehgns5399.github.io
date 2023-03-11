@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Udyr's Blog"
+title                    : "lingodingo's Blog"
 title_separator          : "-"
-name                     : "Udyr"
+name                     : "lingodingo"
 description              : "MD"
 url                      : "https://rlaehgns5399.github.io"
 baseurl                  : ""
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "우두루"
+  name             : "lingodingo"
   avatar           : "https://avatars2.githubusercontent.com/u/26527826?v=4"
-  bio              : "94년생 틀딱"
-  location         : "대전"
+  bio              : "1994. 09. 27"
+  location         : "Seoul"
   email            : "rlaehgns5398@gmail.com"
   links:
     - label: "Email"
